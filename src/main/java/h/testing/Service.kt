@@ -1,4 +1,4 @@
-package g.testing
+package h.testing
 
 interface Service {
     fun query(name: String)
